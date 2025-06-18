@@ -23,9 +23,9 @@ const About = () => {
             </p>
             
             <p className="text-lg text-gray-300 leading-relaxed">
-              Currently pursuing a Diploma in ICT (KNEC), I've developed expertise in Android development, 
-              AI-powered applications, and embedded systems. My previous studies in ETS at MMUST laid 
-              the foundation for my technical understanding.
+              Currently pursuing a Diploma in ICT, I've developed expertise in Android development, 
+              AI-powered applications, and embedded systems. My educational background in Education Technology 
+              has laid the foundation for my technical understanding.
             </p>
             
             <p className="text-lg text-gray-300 leading-relaxed">
@@ -44,12 +44,12 @@ const About = () => {
                 </div>
                 <div className="space-y-3">
                   <div>
-                    <p className="font-medium text-soft-green">Diploma in ICT (KNEC)</p>
-                    <p className="text-gray-400">Currently Pursuing</p>
+                    <p className="font-medium text-soft-green">Diploma in ICT</p>
+                    <p className="text-gray-400">Pursuing</p>
                   </div>
                   <div>
-                    <p className="font-medium text-soft-green">ETS - MMUST</p>
-                    <p className="text-gray-400">Previous Studies</p>
+                    <p className="font-medium text-soft-green">Degree in Education Technology (Computer Studies)</p>
+                    <p className="text-gray-400">ETS</p>
                   </div>
                 </div>
               </CardContent>
