@@ -8,6 +8,7 @@ import About from '@/components/About';
 import Skills from '@/components/Skills';
 import Projects from '@/components/Projects';
 import LabChallenges from '@/components/LabChallenges';
+import GitHub from '@/components/GitHub';
 import Contact from '@/components/Contact';
 import Navigation from '@/components/Navigation';
 
@@ -28,6 +29,7 @@ const Index = () => {
         <Skills />
         <Projects />
         <LabChallenges />
+        <GitHub />
         <Contact />
       </main>
 

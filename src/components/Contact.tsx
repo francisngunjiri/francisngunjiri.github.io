@@ -49,9 +49,9 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      value: "Coming Soon",
-      link: "#",
-      color: "text-gray-400"
+      value: "francisngunjiri",
+      link: "https://github.com/francisngunjiri",
+      color: "text-electric-blue"
     }
   ];
 
