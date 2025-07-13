@@ -8,19 +8,75 @@ const GitHub = () => {
     {
       name: "francisngunjiri.github.io",
       description: "Personal portfolio website template showcasing modern web development practices",
-      language: "HTML",
-      languageColor: "#e34c26",
+      language: "TypeScript",
+      languageColor: "#3178c6",
       isTemplate: true,
       visibility: "Public",
       url: "https://github.com/francisngunjiri/francisngunjiri.github.io",
-      topics: ["portfolio", "website", "template", "personal"]
+      topics: ["portfolio", "website", "template", "personal"],
+      updated: "Updated 9 minutes ago"
+    },
+    {
+      name: "ai-invoice-analyzer",
+      description: "AI-powered invoice analysis and data extraction system using Python",
+      language: "Python",
+      languageColor: "#3776ab",
+      isTemplate: false,
+      visibility: "Public",
+      url: "https://github.com/francisngunjiri/ai-invoice-analyzer",
+      topics: ["ai", "machine-learning", "invoice", "python"],
+      updated: "Updated 3 weeks ago"
+    },
+    {
+      name: "chat-with-pdf",
+      description: "Interactive PDF chat application using AI for document analysis",
+      language: "Python",
+      languageColor: "#3776ab",
+      isTemplate: false,
+      visibility: "Public",
+      url: "https://github.com/francisngunjiri/chat-with-pdf",
+      topics: ["ai", "pdf", "chat", "nlp"],
+      updated: "Updated 3 weeks ago"
+    },
+    {
+      name: "NewsArticlePreviewScreen",
+      description: "Android application for news article preview and reading",
+      language: "Kotlin",
+      languageColor: "#7F52FF",
+      isTemplate: false,
+      visibility: "Public",
+      url: "https://github.com/francisngunjiri/NewsArticlePreviewScreen",
+      topics: ["android", "kotlin", "mobile"],
+      updated: "Updated 2 weeks ago"
+    },
+    {
+      name: "TicTacToewin32",
+      description: "Classic tic-tac-toe game implemented in C language",
+      language: "C",
+      languageColor: "#555555",
+      isTemplate: false,
+      visibility: "Public",
+      url: "https://github.com/francisngunjiri/TicTacToewin32",
+      topics: ["game", "c-language", "console"],
+      updated: "Updated on Feb 22"
+    },
+    {
+      name: "adminhack",
+      description: "Administrative penetration testing tools and scripts",
+      language: "Shell",
+      languageColor: "#89e051",
+      isTemplate: false,
+      visibility: "Public",
+      url: "https://github.com/francisngunjiri/adminhack",
+      topics: ["security", "penetration-testing", "shell"],
+      updated: "Updated on Oct 12, 2024"
     }
   ];
 
   const stats = {
     followers: 1,
     following: 2,
-    repositories: 1,
+    repositories: 51,
     contributions: "Active"
   };
 
