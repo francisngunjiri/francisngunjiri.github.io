@@ -35,10 +35,6 @@ const Hero = () => {
         <div className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
           <div className="font-mono">
             <span className="text-soft-green">Developer</span>
-            <span className="text-white mx-2">•</span>
-            <span className="text-electric-blue">Tinkerer</span>
-            <span className="text-white mx-2">•</span>
-            <span className="text-twilight-purple">Innovator</span>
           </div>
         </div>
         
